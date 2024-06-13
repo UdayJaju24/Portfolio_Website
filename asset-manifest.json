@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Website/static/css/main.3e87ec0f.css",
+    "main.js": "/Portfolio_Website/static/js/main.3bcaba6b.js",
+    "static/js/988.d79afa92.chunk.js": "/Portfolio_Website/static/js/988.d79afa92.chunk.js",
+    "static/media/st-patil cv.pdf": "/Portfolio_Website/static/media/st-patil cv.548f7de434d456da8700.pdf",
+    "static/media/photo stp.jpg": "/Portfolio_Website/static/media/photo stp.990fe4f6ea465a3a5a0b.jpg",
+    "index.html": "/Portfolio_Website/index.html",
+    "main.3e87ec0f.css.map": "/Portfolio_Website/static/css/main.3e87ec0f.css.map",
+    "main.3bcaba6b.js.map": "/Portfolio_Website/static/js/main.3bcaba6b.js.map",
+    "988.d79afa92.chunk.js.map": "/Portfolio_Website/static/js/988.d79afa92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e87ec0f.css",
+    "static/js/main.3bcaba6b.js"
+  ]
+}
