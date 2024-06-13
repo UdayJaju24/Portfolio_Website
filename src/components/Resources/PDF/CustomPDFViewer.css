@@ -1,0 +1,34 @@
+/* CustomPDFViewer.css */
+
+/* Hide the entire toolbar */
+.rpv-toolbar {
+  display: none;
+}
+
+/* Hide the download button */
+.rpv-download {
+  display: none;
+}
+
+/* Hide the print button */
+.rpv-print {
+  display: none;
+}
+
+/* Hide the zoom in and out buttons */
+.rpv-zoom-in {
+  display: none;
+}
+
+.rpv-zoom-out {
+  display: none;
+}
+
+/* Hide the navigation buttons (previous and next) */
+.rpv-previous-page {
+  display: none;
+}
+
+.rpv-next-page {
+  display: none;
+}
